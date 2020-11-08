@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jzsn2018's github stats](https://github-readme-stats.vercel.app/api?username=jzsn2018&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzsn2018&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jzsn2018's github stats](https://github-readme-stats.vercel.app/api?username=jzsn2018&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzsn2018&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 
