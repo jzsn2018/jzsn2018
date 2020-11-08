@@ -7,7 +7,7 @@
 我热爱编程，一直在自学编程中，是一名Javascript开发人员！⚡
 <br />
 
-- 🔭 我正在开发SpringBoot项目，TODO：AuroraDrive、AuroraPanel
+<!-- - 🔭 我正在开发SpringBoot项目，TODO：AuroraDrive、AuroraPanel -->
 - 🌱 我正在努力的学习，我一定会变强的💪
 <!-- - 👯 我在寻找志同道合的朋友 -->
 <!-- - 💬 通过邮件联系我： -->
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/></code>
-<code><img src=https://devicons.github.io/devicon/devicon.git/icons/java/react-original-wordmark.svg alt=react width="40" height="40"/></code>
+<code><img src=https://devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/></code>
