@@ -1,8 +1,9 @@
-### Hi there, I'm [jzsn2018!](#) 👋
+### Hi there, I'm [jzsn2018!](https://github.com/jzsn2018) 👋
 
 ![](https://komarev.com/ghpvc/?username=jzsn2018&style=flat-square&color=ff69b4)
 <br />
-你好，我是jzsn2018。😄
+### About Me
+你好，欢迎👏 来到我的GitHub~ 我是jzsn2018。😄
 <br />
 我热爱编程，一直在自学编程中，是一名Javascript开发人员！⚡
 <br />
