@@ -13,17 +13,16 @@
 
 ### Using language
 
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="40" height="40"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="40" height="40"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt=javascript width="80" height="80"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg alt=javascript width="80" height="80"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=javascript width="80" height="80"/></code>
-
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg alt=javascript width="80" height="80"/></code>
-<code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg alt=javascript width="40" height="40"/></code>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt=javascript width="80" height="80"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg alt=javascript width="80" height="80"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=javascript width="80" height="80"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg alt=javascript width="80" height="80"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg alt=javascript width="40" height="40"/>
 
 ### Using Tools
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
