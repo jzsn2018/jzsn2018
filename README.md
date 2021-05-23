@@ -8,7 +8,7 @@
 - 2018年本科毕业之后, 踏入前端行业, 目前在广东深圳专职 web前端开发 ⚡
 <br />
 <div style="display:flex;justify-content: space-between;">
-<a href="https://github.com/jzsn2018"> <img  src="https://github-readme-stats.vercel.app/api?username=jzsn2018&count_private=true&show_icons=true" width=495/> </a>
+<a style="margin-right: 10px;" href="https://github.com/jzsn2018"> <img  src="https://github-readme-stats.vercel.app/api?username=jzsn2018&count_private=true&show_icons=true" width=495/> </a>
 <a href="https://github.com/jzsn2018"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzsn2018&layout=compact" width=495/> </a>
 </div>
 
