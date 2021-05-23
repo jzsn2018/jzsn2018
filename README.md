@@ -28,7 +28,7 @@
 
 #### back-end
 
-<p>
+<p style="margin:0">
 <img style="margin-right:15px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="80" height="80"/>
 <img style="margin-right:15px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg alt=nestjs width="80" height="80"/>
 <img style="margin-right:15px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=php width="80" height="80"/>
